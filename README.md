@@ -1,2 +1,2 @@
-# Capstone-Project-Notebook
-#
+# Coursera_Capstone
+Used for coursera capstone
